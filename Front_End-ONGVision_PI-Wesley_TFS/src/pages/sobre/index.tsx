@@ -1,6 +1,6 @@
-
-
-
+import Layout from "../../components/Layout";
+import ButtonFatec from "../../components/ButtonBase";
+import styles from "./Sobre.module.css";
 
 export default function Sobre() {
   return (
