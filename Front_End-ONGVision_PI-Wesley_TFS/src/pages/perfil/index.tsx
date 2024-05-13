@@ -1,7 +1,7 @@
 
-
-
-
+import LogoImage from "../../components/LogoImage"
+import Topo from "../../components/Topo"
+import styles from "../../pages/perfil/Perfil.module.css"
 
 export default function Perfil(){
     return(
