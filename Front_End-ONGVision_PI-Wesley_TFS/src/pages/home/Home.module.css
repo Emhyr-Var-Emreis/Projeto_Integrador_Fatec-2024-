@@ -29,3 +29,29 @@
     font-family: serif;
 }
 
+.buttonHome{
+        font-style: bold;
+        color: white;
+        align-items: center;
+        background-color: #2d2d2d;
+        display: inline-flex;
+        gap: 10px;
+        justify-content: center;
+        padding: 24px 64px;
+        position: relative;
+        border-radius: 15px;
+        height: 60px;
+      
+}
+
+.buttonHome:hover{
+    background-color: blueviolet;
+}
+
+.imageBackground{
+    padding: 100px;
+}
+
+.imageHome{
+    width: 1000px;
+}
